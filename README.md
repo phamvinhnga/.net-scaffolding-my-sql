@@ -1,6 +1,7 @@
 # .net-scaffolding-my-sql
 Document: 
 https://learn.microsoft.com/en-us/ef/core/managing-schemas/scaffolding/?tabs=vs
+
 https://learn.microsoft.com/en-us/ef/core/managing-schemas/scaffolding/?tabs=dotnet-core-cli
 
 #1: Open command line: D:\.net-scaffolding-my-sql\dotnet-scaffolding-my-sql
