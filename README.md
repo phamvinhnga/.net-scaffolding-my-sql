@@ -1,0 +1,1 @@
+# .net-scaffolding-my-sql
