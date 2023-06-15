@@ -14,7 +14,7 @@ D:\.net-scaffolding-my-sql\dotnet-scaffolding-my-sql
 
 docker compose up -d
 
-#3: Create database in script.sql file
+#3: Create database: Run script.sql file
 
 #4: Run cmd: 
 
