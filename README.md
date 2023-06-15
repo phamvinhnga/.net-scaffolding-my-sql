@@ -1,4 +1,7 @@
 # .net-scaffolding-my-sql
+Document: 
+https://learn.microsoft.com/en-us/ef/core/managing-schemas/scaffolding/?tabs=vs
+https://learn.microsoft.com/en-us/ef/core/managing-schemas/scaffolding/?tabs=dotnet-core-cli
 
 #1: Open command line: D:\.net-scaffolding-my-sql\dotnet-scaffolding-my-sql
 
@@ -12,4 +15,5 @@
 
 #Note:
 	#2: If you alrealy have your database. You don't have need to this command docker compose up -d. You just need to configure the your database parameters in the appsettings.json file
+	
 	#5: "Name=ConnectionString:DefaultConnection" in appsettings.json file
