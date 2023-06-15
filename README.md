@@ -15,6 +15,6 @@ https://learn.microsoft.com/en-us/ef/core/managing-schemas/scaffolding/?tabs=dot
 #5: Run cmd: dotnet ef dbcontext scaffold "Name=ConnectionString:DefaultConnection" Pomelo.EntityFrameworkCore.MySql -o EntityModels --data-annotations -c ScaffoldingMysqlDbContext
 
 #Note:
-	#2: If you alrealy have your database. You don't have need to this command docker compose up -d. You just need to configure the your database parameters in the appsettings.json file
+	#2: If you alrealy have your database. You don't have need to this command "docker compose up -d". You just need to configure the your database parameters in the appsettings.json file
 	
 	#5: "Name=ConnectionString:DefaultConnection" in appsettings.json file
