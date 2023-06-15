@@ -1,5 +1,7 @@
 # .net-scaffolding-my-sql
+
 Document: 
+
 https://learn.microsoft.com/en-us/ef/core/managing-schemas/scaffolding/?tabs=vs
 
 https://learn.microsoft.com/en-us/ef/core/managing-schemas/scaffolding/?tabs=dotnet-core-cli
